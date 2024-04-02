@@ -12,6 +12,7 @@ You can learn hate hand gestures with YOLO and then collect the images you want 
 We created a dataset to train the model using yolo.
 
 The images were collected by image crawling, and to discriminate them with the val train test, the images were saved in yolo format in txt format by specifying the bounding box for each class using makesense.
+https://www.makesense.ai/
 
 Train it with yolo and infer the learned result.
 
