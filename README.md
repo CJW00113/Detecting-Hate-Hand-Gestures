@@ -17,3 +17,6 @@ https://www.makesense.ai/
 Train it with yolo and infer the learned result.
 
 Find the "hateful hand expression" by inference and output it to OpenCV.
+
+
+# Demo
