@@ -20,3 +20,4 @@ Find the "hateful hand expression" by inference and output it to OpenCV.
 
 
 # Demo
+![test](https://github.com/gks7345/Detecting-Hate-Expression/assets/140896655/6b025a6e-fc8f-4a58-b394-d32362d5a04b)
